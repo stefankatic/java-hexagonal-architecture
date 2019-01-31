@@ -1,0 +1,6 @@
+sms:
+  use: sns
+email:
+  use: ses
+database:
+  use: mongo
